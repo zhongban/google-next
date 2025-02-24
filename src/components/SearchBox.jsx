@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function ImageSearch() {
+export default function SearchBox() {
   return (
     <div>
-      ImageSearch
+      SearchBox
     </div>
   )
 }
